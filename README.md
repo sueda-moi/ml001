@@ -1,1 +1,2 @@
-# ml001
+# Probability: "Given a coin has a 50% chance of heads, what is the chance of flipping 5 heads in a row?"
+# Likelihood: "If I observe 5 heads in a row, how likely is it that the coin's true probability of heads is 50%?"
